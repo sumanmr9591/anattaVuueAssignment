@@ -6,3 +6,7 @@ Steps to run the app
 # run "node server" from base folder
 # Go to client folder and run "npm install"
 # Go to client folder and run "npm run serve"
+
+To Login as Admin
+username: admin
+password: admin
